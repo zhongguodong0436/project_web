@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "devDependencies": {
+    "umi": "^2.10.7",
+    "umi-plugin-react": "^1.12.8"
+  },
+  "dependencies": {
+    "antd": "^3.24.3",
+    "core-js": "^2.6.10",
+    "dva": "^2.4.1",
+    "react-document-title": "^2.0.3",
+    "redux": "^4.0.4"
+  }
+}

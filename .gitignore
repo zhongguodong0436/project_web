@@ -1,0 +1,38 @@
+# dependencies
+node_modules/
+
+# production
+.vscode
+.idea
+
+#router
+.umi/
+
+### STS ###
+target/
+*.class
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.class
+.metadata/
+.recommenders/
+logs/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+bin/
+nbbuild/
+nbdist/
+.nb-gradle/
+dist/

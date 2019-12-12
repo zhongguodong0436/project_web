@@ -1,6 +1,5 @@
 
 const path = require('path');
-
 export default {
   targets: {
     ie: 9,
@@ -20,7 +19,7 @@ export default {
         ],
       },
       fastClick: true,
-      hardSource: true,
+      // hardSource: true,
     }],
   ],
   alias: {
@@ -32,6 +31,5 @@ export default {
     'common': path.resolve(__dirname, 'src/common/'),
     'assets': path.resolve(__dirname, 'src/assets/'),
   },
-
 
 }
